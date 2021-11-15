@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://github.com/figurestudios/word-counter",
+  "providedBy": { "name": "stelballe", "url": "https://github.com/figurestudios/word-counter" },
+  "icons": [
+    {
+      "src": "./192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Word Counter Tool",
+  "description": "Analyse your texts",
+  "iconPath": "./256x256.png",
+  "short_name": "Word Counter",
+  "start_url": ".",
+  "theme_color": "#00c65e",
+  "skylink": "AQDBJ5NVtaXehjTKM_ru1PbLY1LQNh0i_hxNojSlCtFQFA"
+}
